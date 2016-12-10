@@ -2,4 +2,5 @@ creat file test.c
 add one line at 16:27.
 add by fuyou at 21:58 PM,use the desktop PC.
 add bu fuyou at 11:55 AM,through the public PC in KWT.inc.
-å…¨éƒ¨ä½¿ç”¨UTF-8ç¼–ç å°±ä¸ä¼šä¹±ç ï¼ŒKeilè®¾ä¸ºUTF-8çš„ä¸å¥½ä¹‹å¤„åœ¨äºä¸²å£printfæ—¶ï¼Œä¸²å£åŠ©æ‰‹ä¸æ”¯æŒUTF-8ç¼–ç çš„è¯ï¼Œæ˜¾ç¤ºå°±ä¼šä¹±ç ã€‚
+È«²¿Ê¹ÓÃUTF-8±àÂë¾Í²»»áÂÒÂë£¬KeilÉèÎªUTF-8µÄ²»ºÃÖ®´¦ÔÚÓÚ´®¿ÚprintfÊ±£¬´®¿ÚÖúÊÖ²»Ö§³ÖUTF-8±àÂëµÄ»°£¬ÏÔÊ¾¾Í»áÂÒÂë¡£
+Ò²²»Ò»¶¨£¬keilµÄbuild output´°¾ÓÈ»²»Ö§³ÖUTF-8£¬ºÃÆø¡£
